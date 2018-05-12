@@ -1,4 +1,5 @@
 _repo: Maa0xdf-fur-Maa0xdf-Wie-einer-mi0xdft-so-wird-ihm-wieder-gemessen_7233
+_version: 0.1.0
 alternative_title:
 - Measure for Measure. German
 - "Maass für Maass\r\nWie einer misst, so wird ihm wieder gemessen"
@@ -17,6 +18,9 @@ contributor:
     gutenberg_agent_id: '845'
     url: http://www.gutenberg.org/2009/agents/845
     wikipedia: http://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -29,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: Translation of Measure for Measure
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7233#Maa0xdf-fur-Maa0xdf-Wie-einer-mi0xdft-so-wird-ihm-wieder-gemessen
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
